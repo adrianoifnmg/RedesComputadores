@@ -19,4 +19,4 @@
 * Endereçamento IPv4 e IPv6
 * Protocolos de Roteamento
 * Protocolos de Transporte
-* Protocolos de Aplicação
+* Protocolos de Aplicações
