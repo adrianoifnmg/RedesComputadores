@@ -4,7 +4,7 @@
 
 > **Objetivos Específicos:** Conhecer a fundo as camadas do modelo de referência OSI e a pilha de protocolos TCP/IP. Reconhecer os principais padrões e tecnologias das redes de computadores.
 
-<p align="center"><a href="#"><img src="https://github.com/adrianoifnmg/adrianoifnmg/blob/main/icons/r1.png"></a></p>
+<p align="center"><a href="#"><img src="https://github.com/adrianoifnmg/adrianoifnmg/blob/main/icons/r1_capa.png"></a></p>
 
 ## :dart: Ementa
 * Introdução às Redes de Computadores
