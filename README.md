@@ -20,3 +20,30 @@
 * Protocolos de Roteamento
 * Protocolos de Transporte
 * Protocolos de Aplicações
+
+## :computer: Ambiente
+
+[<img src="https://github.com/adrianoifnmg/adrianoifnmg/blob/main/icons/r1_amb.png">](#)
+
+## :memo: Avaliação
+
+* Prova 1 - 25 Pontos
+* Prova 2 - 25 Pontos
+* Prova 3 - 25 Pontos
+* Trabalhos - 25 Pontos
+
+## :books: Bibliografia
+
+* FOROUZAN, Behrouz A. **Comunicação de Dados e Redes de Computadores**. Editora Bookman.
+* TANENBAUM, Andrew S. **Redes de Computadores**. Editora Campus.
+* ROSS, Keith W; KUROSE, James F. **Redes de Computadores e a Internet – Uma Abordagem Top-Down**. Pearson Education.
+
+## :link: Links Úteis
+
+* [Network Academy](https://www.networkacademy.io/)
+* [IP Info](https://ipinfo.io/)
+* [Teste IPv6](http://test-ipv6.com/) 
+* [Livro IPv6](https://www.ipv6.br/pagina/downloads/)
+* [Tcpdump Tutorial with Examples](https://danielmiessler.com/study/tcpdump/)
+
+## [![vader](https://github.com/adrianoifnmg/adrianoifnmg/blob/main/icons/vader2.gif)](#)
