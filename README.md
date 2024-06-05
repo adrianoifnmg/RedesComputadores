@@ -41,6 +41,7 @@
 ## :link: Links Úteis
 
 * [Network Academy](https://www.networkacademy.io/)
+* [Binary Game](https://learningcontent.cisco.com/games/binary/index.html)
 * [IP Info](https://ipinfo.io/)
 * [Teste IPv6](http://test-ipv6.com/) 
 * [Livro IPv6](https://www.ipv6.br/pagina/downloads/)
