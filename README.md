@@ -42,6 +42,7 @@
 
 * [Network Academy](https://www.networkacademy.io/)
 * [Binary Game](https://learningcontent.cisco.com/games/binary/index.html)
+* [Binary Bonanza](https://games.penjee.com/binary-bonanza/)
 * [IP Info](https://ipinfo.io/)
 * [Teste IPv6](http://test-ipv6.com/) 
 * [Livro IPv6](https://www.ipv6.br/pagina/downloads/)
