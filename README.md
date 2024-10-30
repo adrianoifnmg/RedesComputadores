@@ -1,6 +1,6 @@
 # 🌐 Redes de Computadores
 
-> **Objetivo Geral:** Compreender os fundamentos básicos do processo de comunicação de dados entre dispositivos. Conhecer os principais conceitos, desafios, protocolos, arquiteturas e tecnologias existentes, obtendo uma sólida formação teórica para continuidade dos estudos nesta área de constante evolução.
+> **Objetivo Geral:** Compreender os fundamentos básicos da comunicação de dados entre dispositivos eletrônicos. Conhecer os principais conceitos, desafios, protocolos, arquiteturas e tecnologias existentes, obtendo uma sólida formação teórica para continuidade dos estudos nesta área de constante evolução.
 
 > **Objetivos Específicos:** Conhecer a fundo as camadas do modelo de referência OSI e a pilha de protocolos TCP/IP. Reconhecer os principais padrões e tecnologias das redes de computadores.
 
