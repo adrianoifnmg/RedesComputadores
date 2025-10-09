@@ -49,7 +49,7 @@
 ## :link: Links Úteis
 
 * [Network Academy](https://www.networkacademy.io/)
-* [Cisco Packet Tracer on Linux]([https://github.com/Diolinux/PacketTracer-AppImage/releases/tag/Packet-Tracer-AppImage-8.2.2](https://simplificandoredes.com/en/install-packet-tracer-on-linux/)
+* [Cisco Packet Tracer on Linux](https://simplificandoredes.com/en/install-packet-tracer-on-linux/)
 * [Cisco Packet Tracer *AppImage](https://github.com/Diolinux/PacketTracer-AppImage/releases/tag/Packet-Tracer-AppImage-8.2.2)
 * [Binary Game](https://learningcontent.cisco.com/games/binary/index.html)
 * [Binary Bonanza](https://games.penjee.com/binary-bonanza/)
