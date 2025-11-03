@@ -35,10 +35,10 @@
 
 ## :memo: Avaliação
 
-* Prova 1 - 25 Pontos
-* Prova 2 - 25 Pontos
-* Prova 3 - 25 Pontos
-* Trabalhos - 25 Pontos
+* Prova 1 - 30 Pontos
+* Prova 2 - 30 Pontos
+* Prova 3 - 30 Pontos
+* Apresentação Individual - 10 Pontos
 
 ## :books: Bibliografia
 
