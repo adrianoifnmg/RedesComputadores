@@ -49,8 +49,9 @@
 ## :link: Links Úteis
 
 * [Network Academy](https://www.networkacademy.io/)
-* [Cisco Packet Tracer on Linux](https://simplificandoredes.com/en/install-packet-tracer-on-linux/)
-* [Cisco Packet Tracer *AppImage](https://github.com/Diolinux/PacketTracer-AppImage/releases/tag/Packet-Tracer-AppImage-8.2.2)
+* [Cisco Packet Tracer 8.2.2 Linux](https://drive.google.com/file/d/1brdFrP28fzWMcOx-G4BqINi2eajPHscB/view?usp=sharing)
+* [Cisco Packet Tracer 8.2.2 Guide](https://simplificandoredes.com/instalar-packet-tracer-em-linux/)
+* [Cisco Packet Tracer *AppImage]()
 * [Binary Game](https://learningcontent.cisco.com/games/binary/index.html)
 * [Binary Bonanza](https://games.penjee.com/binary-bonanza/)
 * [Minicurso Endereçamento IP](https://www.youtube.com/watch?v=U75maFpKDNc&list=PLwSufV429Sn2YHX71aVXeQYwHHTNhL7-b)
