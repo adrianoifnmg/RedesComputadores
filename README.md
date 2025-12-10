@@ -61,6 +61,7 @@
 * [IP Info](https://ipinfo.io/)
 * [Teste IPv6](http://test-ipv6.com/) 
 * [Livro IPv6](https://www.ipv6.br/pagina/downloads/)
+* [NetAcad: Curso Básico de Redes](https://www.netacad.com/pt/courses/networking-basics?courseLang=pt-BR)
 * [Radar Cloudflare](https://radar.cloudflare.com/)
 * [Tcpdump Tutorial with Examples](https://danielmiessler.com/study/tcpdump/)
 
